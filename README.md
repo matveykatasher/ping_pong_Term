@@ -1,7 +1,4 @@
-# Название проекта
-console ping pong
-
-# Pong Game in C++ using ncurses
+# Console ping pong in C++
 
 This is a simple implementation of the classic **Pong** game in C++, using the **ncurses** library to render the game in the terminal.
 
